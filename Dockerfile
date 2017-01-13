@@ -1,9 +1,9 @@
 #
-# docker build -t yomateo/centos-base-java:testing .
+# docker build -t appsoa/centos-base-java:testing .
 #
 FROM centos:7
 
-#
+# Old, but for a purpose
 # http://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html
 #
 ENV JAVA_VERSION 8u60

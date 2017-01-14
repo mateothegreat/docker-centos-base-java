@@ -1,3 +1,3 @@
 #!/bin/bash
  
-docker push appsoa/centos-base-java:testing
+docker push appsoa/docker-centos-base-java:testing

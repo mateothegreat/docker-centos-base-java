@@ -1,3 +1,3 @@
 #!/bin/bash
- 
-docker build --force-rm -t appsoa/centos-base-java:testing .
+
+docker build --force-rm --no-cache -t appsoa/docker-centos-base-java:testing .

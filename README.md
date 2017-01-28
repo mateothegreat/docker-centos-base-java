@@ -1,5 +1,11 @@
 # docker-centos-base-java
 
+<span style="float: right; padding-right: 20px; width: 350px; text-align: right; ">
+![java](http://i.imgur.com/rXvTXaE.png)
+![docker](http://i.imgur.com/rAuZnDH.png)
+</span>
+
+<br>
 
 ```
 

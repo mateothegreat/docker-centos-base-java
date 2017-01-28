@@ -2,6 +2,7 @@
 # docker build -t appsoa/centos-base-java:testing .
 #
 FROM centos:7
+MAINTAINER Matthew Davis <matthew@appsoa.io>
 
 # Old, but for a purpose
 # http://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html

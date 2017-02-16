@@ -16,4 +16,5 @@ RUN yum -y install epel-release wget which net-tools unzip && \
 
 RUN useradd -g wheel user && \
     chown -R user:wheel /home/user && \
-    /bin/dbus-uuidgen > /etc/machine-id
+    /bin/dbus-uuidgen > /etc/machine-id && \
+    rm -rf /tmp/jdk-8-linux-x64.rpm
